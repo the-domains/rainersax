@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "A lot of projects are late, I get that. Especially big IT projects get bogged down in feature creep amongst other things. This one, the Grid, might be different. I tend to think of it more in terms of Elbphilharmonie in Hamburg then the new Berlin airport. Both have been delayed, the cost of both has increased dramatically over the initial estimates.\_"
-datePublished: '2016-04-13T11:03:15.365Z'
-dateModified: '2016-04-13T11:02:38.432Z'
+description: 'This is my first post on the Grid and I am excited to get started with this AI-based website creation app. I joined the Grid a loooong time ago and it took them a loooooooooong time to grant me access to the beta. They said that they were struggling hard with building it which seems understandable. On the other hand, though, they were making bold promises from the start.'
+datePublished: '2016-04-13T13:58:32.744Z'
+dateModified: '2016-04-13T13:15:29.771Z'
 title: Might this be the start of something big?
 author: []
 sourcePath: _posts/2016-04-13-might-this-be-the-start-of-something-big.md
