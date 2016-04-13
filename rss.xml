@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[rainersax]]></title>
         <description><![CDATA[rainersax]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rainersax/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 10:46:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 10:48:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rainersax/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Might this be the start of something big? </p>]]></description>
-            <link>undefinedmight-this-be-the-start-of-something-big/index.html</link>
+            <link>https://thegrid.ai/rainersax/might-this-be-the-start-of-something-big/index.html</link>
             <guid isPermaLink="false">fcd22340-2823-4e64-89d6-3e9f0c7764ba</guid>
-            <pubDate>Wed, 13 Apr 2016 10:46:28 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 10:48:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
