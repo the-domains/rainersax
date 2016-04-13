@@ -1,0 +1,28 @@
+name: rainersax
+favicon: null
+layout_spectrum: 0.30842422670684755
+typography_spectrum: 0.72491689841263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2941947071813047
+  lightness: 0.43528162268921733
+  saturation: 0.039013577392324805
+  rhythmicContrast: 0.31617179955355823
+purpose: []
