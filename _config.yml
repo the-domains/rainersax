@@ -1,4 +1,4 @@
-name: rainersax
+name: Rainer Sax
 favicon: null
 layout_spectrum: 0.70785
 typography_spectrum: 0.82818
@@ -21,7 +21,7 @@ color:
     - '#7695b2'
     - '#6f7782'
     - '#495062'
-  brandStrength: 0.125
+  brandStrength: 0.75
   lightness: 0.5625
   saturation: 0.039013577392324805
   rhythmicContrast: 0.25
