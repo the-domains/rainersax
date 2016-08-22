@@ -1,19 +1,4 @@
-name: Rainer Sax
-favicon: null
-layout_spectrum: 0.70785
 typography_spectrum: 0.82818
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#c9dbe9'
@@ -25,4 +10,22 @@ color:
   lightness: 0.5625
   saturation: 0.039013577392324805
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.70785
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Rainer Sax
+  email: rainer.sax@gmail.com
+name: Rainer Sax
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
